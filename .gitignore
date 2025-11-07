@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# But NOT these folders (importanz, otherwise you can't commit them)
+!*/
+
+# Allow Markdown files
+!*.md
+
+# Optional: allow other text files
+!*.txt
+!*.json
+!*.yml
+!*.yaml
+
+# Optional: allow README-files (if they are without .md-ending)
+!README
+!README.md
