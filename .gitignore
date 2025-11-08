@@ -16,3 +16,7 @@
 # Optional: allow README-files (if they are without .md-ending)
 !README
 !README.md
+
+# Extras (just random sh*t)
+.obsidian
+IHateSolaris.md
