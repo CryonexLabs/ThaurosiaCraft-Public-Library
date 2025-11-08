@@ -5,13 +5,13 @@ Ignorance and not being up to date of the rules is not an excuse. Play fair, sta
 
 ## 🕊️ 1. Respect & Conduct
 
-Treat everyone with respect — harassment, discrimination, or toxicity will not be tolerated.
+Treat everyone with respect! Harassment, discrimination, or toxicity of any kind will not be tolerated!
 
 Arguments, name-calling, or drama will result in moderation action.
 
-Keep interactions civil at all times — no excuses.
+Keep interactions civil at all times, no excuses.
 
-What happens in-character stays in-character; using RP to attack players is not allowed.
+What happens in-character stays in-character; using RP to attack players OOC is not allowed. Using real infos to attack a person in character is not allowed.
 
 ## 💬 2. Chat & Voice Etiquette
 
@@ -23,7 +23,7 @@ No spamming, trolling, or flooding text/voice channels.
 
 Use the correct channels for discussions; off-topic chat belongs in designated areas.
 
-Voice chat harassment, screaming, or soundboards that disrupt others will result in removal.
+Voice chat harassment, screaming, or soundboards that disrupt others will result in staff action.
 
 ## 🛡️ 3. Roleplay Conduct
 
@@ -31,9 +31,11 @@ All official roleplay must take place within the Thaurosia server environment.
 
 RP done outside the server (in DMs, group chats, etc.) is discouraged and not considered canon.
 
-Stay in character while in RP zones and follow the established lore.
+Stay in character all the time unless you are in No-RP zones/channels.
 
-Combat outside of RP (such as PvP in the wild) is allowed and encouraged, but is not lore-official unless both parties agree and staff approve.
+Every combat situation has to be encountered with the Epic Fighting mod/mode enabled.
+
+Combat outside of lore (such as PvP in the wild) is allowed and encouraged, but its consequences are not lore-official unless both parties agree and staff approves.
 
 Godmodding, metagaming, and powerplaying are strictly prohibited.
 
@@ -41,15 +43,15 @@ Do not retcon (rewrite or undo RP events) without mutual consent and staff appro
 
 Combat, conflict, and outcomes within RP must be fair, logical, and agreed upon by all participants.
 
-Avoid breaking immersion — use OOC (out-of-character) brackets or channels when necessary.
+Avoid breaking immersion — use OOC (out-of-character) brackets or channels when necessary. (idk)
 
 ## ⚖️ 4. Staff & Enforcement
 
 Staff decisions are final.
 
-Arguing with or impersonating staff is not allowed.
+Arguing (without proper reason) or impersonating staff is not allowed.
 
-If you believe a decision was unfair, open a ticket and provide evidence — do not argue in public.
+If you believe a decision was unfair, open a ticket and provide evidence, do not argue in public.
 
 Lying in tickets or manipulating evidence will result in disciplinary action.
 
@@ -67,11 +69,9 @@ AFK farming or automation that disrupts server balance will be removed.
 
 ## 🏰 6. Community Integrity
 
-Do not advertise or promote other servers, Discords, or communities.
+No advertising, self-promotion, external invites, or malicious links. This includes other servers, Discords, or communities. Prior permission is required.
 
-No malicious links, self-promotion, or external invites without permission.
-
-Treat new players and guests with respect — help maintain a welcoming environment.
+Treat new players and guests with respect, help maintain a welcoming environment.
 
 Evading punishment (alt accounts, VPNs, etc.) will result in a permanent ban.
 
