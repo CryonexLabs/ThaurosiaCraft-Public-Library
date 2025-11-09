@@ -43,7 +43,7 @@ Do not retcon (rewrite or undo RP events) without mutual consent and staff appro
 
 Combat, conflict, and outcomes within RP must be fair, logical, and agreed upon by all participants.
 
-Avoid breaking immersion — use OOC (out-of-character) brackets or channels when necessary. (idk)
+Avoid breaking immersion, use OOC (out-of-character) brackets only when its really necessary.
 
 ## ⚖️ 4. Staff & Enforcement
 
