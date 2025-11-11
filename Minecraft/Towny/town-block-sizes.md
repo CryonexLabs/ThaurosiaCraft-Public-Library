@@ -1,7 +1,7 @@
 # Town Levels Configuration
 
 > 📘 Guide: [How Towny Works – Configuring town_level and nation_level](https://github.com/TownyAdvanced/Towny/wiki/How-Towny-Works#configuring-town_level-and-nation_level)  
-> ⚠️ Hinweis: Der erste Block mit `numResidents: 0` darf nicht entfernt werden.
+> ⚠️ One note: You can add and remove levels from this list, but you should never remove the first numResidents: 0 block.
 
 ---
 
