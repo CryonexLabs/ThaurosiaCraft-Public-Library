@@ -140,4 +140,27 @@
 - namePostfix: ' (Large City)'
 - bankCapModifier: 1.0
 - mayorPrefix: 'Duke '
-- town
+- townBlockBuyBonusLimit: 0
+- namePrefix: ''
+- mayorPostfix: ''
+- peacefulCostMultiplier: 1.0
+- townBlockLimit: 384
+- resourceProductionModifier: 1.0
+
+---
+
+## 🌃 Metropolis
+- townBlockTypeLimits: {}
+- upkeepModifier: 1.0
+- townOutpostLimit: 4
+- numResidents: 28
+- debtCapModifier: 1.0
+- namePostfix: ' (Metropolis)'
+- bankCapModifier: 1.0
+- mayorPrefix: 'Lord '
+- townBlockBuyBonusLimit: 0
+- namePrefix: ''
+- mayorPostfix: ''
+- peacefulCostMultiplier: 1.0
+- townBlockLimit: 448
+- resourceProductionModifier: 1.0
